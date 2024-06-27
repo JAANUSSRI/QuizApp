@@ -10,9 +10,9 @@ Design the following:
 •	Schema of the necessary MongoDB collections. One of which is shown below
 • Create Questions collection in MongoDB as follows to store the information about the students and Questions with choices.
 
---------------------------------------------------------------------
+____________________________________________________________________
 Question |	Choice_A |	Choice_B |	Choice_C |	Choice_D |	Answer |
---------------------------------------------------------------------
+____________________________________________________________________
 
 
 •	Design the application with the necessary endpoints, controllers, collections, and components as a sequence diagram
