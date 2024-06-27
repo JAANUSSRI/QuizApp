@@ -3,7 +3,7 @@ Full Stack Web Application - Online Quiz Application using MVC Architecture
 
 Aim:
 
-	To develop a full stack web application for conducting On-line quiz using MVC architecture. The application should facilitate the normal and admin users to access it.  To the normal user, instructions, questions with options and the score needs to be provided as the following snapshots. Admin user can view the registered users and their scores. 
+   To develop a full stack web application for conducting On-line quiz using MVC architecture. The application should facilitate the normal and admin users to access it.  To the normal user, instructions, questions with options and the score needs to be provided as the following snapshots. Admin user can view the registered users and their scores. 
 
 Design the following:
 
