@@ -76,22 +76,36 @@ Admin can,
 ![2](https://github.com/JAANUSSRI/QuizApp/assets/95457059/975eea0f-5b77-466a-baf1-9c25cda3166e)
 
 ![Picture1](https://github.com/JAANUSSRI/QuizApp/assets/95457059/c7e1a1cc-42c7-445c-849d-a3cd064c2395)
+
 ADMIN:
+
 ![Picture2](https://github.com/JAANUSSRI/QuizApp/assets/95457059/b433a99b-398f-472b-9efd-3446c6a84c51)
 ![Picture3](https://github.com/JAANUSSRI/QuizApp/assets/95457059/444e9d9f-90e4-45b9-9e27-ab69b2dca5bc)
+
 Add Question by Admin:
+
 ![Picture4](https://github.com/JAANUSSRI/QuizApp/assets/95457059/eaa66240-3870-4f10-a34b-5f2abe81716f)
+
 View Results by Admin:
+
 ![Picture5](https://github.com/JAANUSSRI/QuizApp/assets/95457059/cf436d29-1c6e-445b-859e-073e1c460867)
+
 User: 
+
 ![Picture6](https://github.com/JAANUSSRI/QuizApp/assets/95457059/f2c60082-74b0-4f95-891c-27d806cf5638)
+
 User Login/Signup:
+
 ![Picture7](https://github.com/JAANUSSRI/QuizApp/assets/95457059/bc175f85-d50f-467a-a780-09548b07bafd)
 ![Picture8](https://github.com/JAANUSSRI/QuizApp/assets/95457059/8ba1762c-17b5-439e-8548-6025ebdc4dff)
 ![Picture9](https://github.com/JAANUSSRI/QuizApp/assets/95457059/8a6cb5c5-3fa1-43ec-86e3-ec7cd5808d1d)
+
 Right choice:
+
 ![Picture10](https://github.com/JAANUSSRI/QuizApp/assets/95457059/0920aae3-b65c-43f9-8227-663a8b45483d)
+
 Wrong Choice: 
+
 ![Picture11](https://github.com/JAANUSSRI/QuizApp/assets/95457059/f421cadd-df63-4deb-922d-247c3204736e)
 ![Picture12](https://github.com/JAANUSSRI/QuizApp/assets/95457059/34437fc5-52e0-4ee7-90ed-b56fa4eb3ad4)
 
